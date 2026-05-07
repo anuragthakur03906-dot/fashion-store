@@ -1,10 +1,10 @@
-# 🛍️ FashionStore - MERN Stack Mini E-commerce Website
+# FashionStore - MERN Stack Mini E-commerce Website
 
 FashionStore is a fully responsive MERN stack e-commerce web application built for fashion shopping experiences.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Authentication (JWT)
 - Login/Register/Forgot Password
@@ -15,11 +15,10 @@ FashionStore is a fully responsive MERN stack e-commerce web application built f
 - Email Integration using Nodemailer
 - Product Detail Modal
 - Animations with Framer Motion
-- LocalStorage Cart Persistence
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
